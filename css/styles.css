@@ -1,16 +1,18 @@
 h1{
   color: 6FB985;
+  text-align: center;
 }
 h2{
   color: 2C7873;
+  text-align: center;
 }
 p {
-  font-size: 20px;
+  font-size: 27px;
   color: 6FB985;
 }
 
 ul{
-  font-size: 18px;
+  font-size: 22px;
   line-height: 30px;
   color: 2C7873;
 }
