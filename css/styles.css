@@ -16,3 +16,31 @@ ul{
   line-height: 30px;
   color: 2C7873;
 }
+ol{
+  font-size: 22px;
+  line-height: 30px;
+  color: 2C7873;
+}
+.unimportant {
+  width: 50%;
+  font-style: italic;
+  padding-left: 40%
+}
+.importnat {
+  width: 50%;
+  font-style: oblique;
+}
+.language  {
+  font-weight: bold;
+  }
+.column {
+  width: 500px;
+  float: left;
+}
+.end {
+  float: left;
+}
+}
+.my-class {
+  border: 1px solid blue;
+}
